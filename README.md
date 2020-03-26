@@ -5,7 +5,6 @@ Use privoxy to forward socks5
 
 Environments:
 
-* `PORT`, listen port, default `8118`
 * `ADDR`, socks5 address, default `socks5:1080`
 
 ```

@@ -1,7 +1,7 @@
 #!/bin/sh
 
 echo "
-listen-address  0.0.0.0:${PORT}
+listen-address  0.0.0.0:8118
 forward-socks5 / ${ADDR} .
 " >config
 
